@@ -142,10 +142,11 @@ namespace Uppgift1b
             int age = tal1;
             int age2 = tal2;
 
-            Console.WriteLine($"Produkten av  {tal1 } och { tal2} är {tal1 * tal2} "); 
-           
+            Console.WriteLine($"Produkten av  {tal1 } och { tal2} är {tal1 * tal2} ");
+
 
             Console.ReadLine();
+
             
             
         }
